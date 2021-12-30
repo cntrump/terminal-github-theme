@@ -176,6 +176,8 @@
 	</data>
 	<key>CursorType</key>
 	<integer>1</integer>
+	<key>FontHeightSpacing</key>
+	<real>1.02</real>
 	<key>ProfileCurrentVersion</key>
 	<real>2.0699999999999998</real>
 	<key>SelectionColor</key>
